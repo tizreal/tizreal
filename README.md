@@ -19,7 +19,7 @@ Account management and a small social feed with role-based administration. Autho
 **Links:** [Backend](https://github.com/tizreal/UserManager-Backend) · [Frontend](https://github.com/tizreal/usermanager-frontend) · [Live demo](https://usermanager-frontend.vercel.app/)
 
 ### Library Management System
-Books and members CRUD, with the same REST API implemented twice: once in Spring Boot and once in Express.
+Books and members CRUD, with similar REST endpoints implemented twice, in Spring Boot and in Express. The two differ in the member username field, and the frontend uses the Spring Boot API.
 
 **Stack:** Spring Boot, Node.js, Express, PostgreSQL, React
 **Links:** [Spring Boot API](https://github.com/tizreal/LibraryAppBackend) · [Express API](https://github.com/tizreal/LibraryAppExpressBackend) · [Frontend](https://github.com/tizreal/LibraryApp) · [Live demo](https://library-app-hazel-psi.vercel.app/) (shared public sandbox)
